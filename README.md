@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Prasanth Perumal
 - 👀 Android Developer 
-- 🌱 I’m currently learning about compose
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Mail me at prasanthperumal92@gmail.com
 
